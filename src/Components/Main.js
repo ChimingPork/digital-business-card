@@ -10,7 +10,8 @@ export default function Main () {
                 </p>
                 <br></br>
                 <h3>Proficiencies in Development</h3>
-                <p>React, Javascript ES6, HTML 5, CSS, Node.js,, Solidity (familiar with), Unity (familiar with). </p>
+                <p>React, Javascript ES6, HTML 5, CSS, Node.js, Vercel, Heroku, Netlify
+                    Solidity (familiar with), Unity (familiar with),</p>
                 <br></br>
                 <h3>Proficiencies in Google Analytics</h3>
                 <p>Google Analytics 4 (GA4), Universal Analytics to GA4 Migration, Google Tag Manager, Google Data Studio. </p>
