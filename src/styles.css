@@ -54,7 +54,7 @@ a, a:visited, a:hover, a:active {
 }
 
 .Header-intro > h1 {
-  margin-bottom: 10px;
+  margin: 10px 0 10px 0;
   text-align: center;
   color: white;
 }
@@ -76,13 +76,10 @@ a, a:visited, a:hover, a:active {
   justify-content: left;
   text-align: left;
   max-width: 400px;
-  margin: 35px;
+  margin: 5px 35px 35px 35px;
   color: white;
+  line-height: 25px;
 }
-
-/* .Main-content {
-  line-break: ;
-} */
 
 .Footer {
   display: flex;
@@ -121,7 +118,7 @@ a, a:visited, a:hover, a:active {
   background: #ffffff;
   border-radius: 10px;
   padding: 15px;
-  margin: 10px;
+  margin: 20px;
   width: 300px;
   height: 40px;
   font-size: 18px;
