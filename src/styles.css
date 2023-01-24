@@ -4,12 +4,12 @@ html {
   width: 100%;
   display: flex;
   justify-content: center;
-  background-color: #23252C;
+  background-color: #156870;
   ;
 }
 
 body {
-  margin-top: 25px;
+  margin-top: 15px;
   border-radius: 20px;
 }
 
@@ -38,8 +38,8 @@ a, a:visited, a:hover, a:active {
 .App {
   font-family: 'Inter', sans-serif;
   border-radius: 20px;
-  max-width: 450px;
-  background-color: #1A1B21;
+  max-width: 550px;
+  background-color: #23252C;
   margin-bottom: 15px;
 }
 
@@ -50,7 +50,7 @@ a, a:visited, a:hover, a:active {
 
 .Header-headshot {
   border-radius: 20px 20px 0 0;
-  width: 450px;
+  width: 550px;
 }
 
 .Header-intro > h1 {
@@ -63,7 +63,7 @@ a, a:visited, a:hover, a:active {
   margin-top: 0px;
   font-size: 20px;
   text-align: center;
-  color: #F3BF99;
+  color: #e29000;
 }
 
 .Header-buttons {
@@ -75,7 +75,7 @@ a, a:visited, a:hover, a:active {
   display: flex;
   justify-content: left;
   text-align: left;
-  max-width: 400px;
+  max-width: 500px;
   margin: 5px 35px 35px 35px;
   color: white;
   line-height: 25px;
@@ -101,7 +101,7 @@ a, a:visited, a:hover, a:active {
   border-radius: 10px;
   padding: 15px;
   margin: 10px;
-  width: 80px;
+  width: 125px;
   height: 40px;
   font-size: 18px;
   display: flex;
@@ -119,7 +119,7 @@ a, a:visited, a:hover, a:active {
   border-radius: 10px;
   padding: 15px;
   margin: 20px;
-  width: 300px;
+  width: 400px;
   height: 40px;
   font-size: 18px;
   display: flex;
